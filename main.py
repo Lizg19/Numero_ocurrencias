@@ -16,3 +16,4 @@ if contador !=1:
   print("( " + palabraBuscar + " , " + str(contador) + ") ")
 else:
   print("( " + palabraBuscar + " , " + str(contador) + ") ")
+archivo.close ()
